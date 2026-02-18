@@ -18,10 +18,10 @@ kotlin {
     jvm("desktop")
     
     js(IR) {
-        moduleName = "loginApp"
+        moduleName = "2tgames"
         browser {
             commonWebpackConfig {
-                outputFileName = "loginApp.js"
+                outputFileName = "2tgames.js"
             }
         }
         binaries.executable()
@@ -74,11 +74,11 @@ kotlin {
 }
 
 android {
-    namespace = "com.cristina.loginkmp"
+    namespace = "com.cristina.2tgames"
     compileSdk = 34
     
     defaultConfig {
-        applicationId = "com.cristina.loginkmp"
+        applicationId = "com.cristina.2tgames"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -117,7 +117,7 @@ compose.desktop {
         
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "LoginKMP"
+            packageName = "2tgames-ui"
             packageVersion = "1.0.0"
             
             windows {

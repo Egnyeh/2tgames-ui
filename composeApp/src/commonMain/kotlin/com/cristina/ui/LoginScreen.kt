@@ -222,7 +222,7 @@ fun LoginScreen(viewModel: LoginViewModel) {
                                     modifier = Modifier.padding(16.dp)
                                 ) {
                                     Text(
-                                        text = "✓ Login exitoso",
+                                        text = "Login exitoso",
                                         color = PrimaryPurple,
                                         style = MaterialTheme.typography.bodyLarge,
                                         fontWeight = FontWeight.Bold
