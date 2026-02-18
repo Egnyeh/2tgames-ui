@@ -1,4 +1,4 @@
-package com.cristina.loginkmp.data
+package com.cristina.data
 
 import kotlinx.serialization.Serializable
 

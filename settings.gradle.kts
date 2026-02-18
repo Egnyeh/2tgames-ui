@@ -7,6 +7,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "LoginKMP"
+rootProject.name = "2tgames-ui"
 
 include(":composeApp")

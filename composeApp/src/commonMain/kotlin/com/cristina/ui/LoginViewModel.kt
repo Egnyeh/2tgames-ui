@@ -1,7 +1,7 @@
-package com.cristina.loginkmp.ui
+package com.cristina.ui
 
-import com.cristina.loginkmp.data.ApiClient
-import com.cristina.loginkmp.data.LoginResponse
+import com.cristina.data.ApiClient
+import com.cristina.data.LoginResponse
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

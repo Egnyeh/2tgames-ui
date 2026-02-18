@@ -1,4 +1,4 @@
-package com.cristina.loginkmp
+package com.cristina
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

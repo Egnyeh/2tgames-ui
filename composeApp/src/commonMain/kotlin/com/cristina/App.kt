@@ -1,9 +1,9 @@
-package com.cristina.loginkmp
+package com.cristina
 
 import androidx.compose.runtime.Composable
-import com.cristina.loginkmp.data.ApiClient
-import com.cristina.loginkmp.ui.LoginScreen
-import com.cristina.loginkmp.ui.LoginViewModel
+import com.cristina.data.ApiClient
+import com.cristina.ui.LoginScreen
+import com.cristina.ui.LoginViewModel
 
 @Composable
 fun App() {

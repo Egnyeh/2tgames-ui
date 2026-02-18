@@ -1,4 +1,4 @@
-package com.cristina.loginkmp.ui
+package com.cristina.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -21,9 +21,11 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
-import com.cristina.loginkmp.theme.AppTheme
-import com.cristina.loginkmp.theme.DarkPurple
-import com.cristina.loginkmp.theme.PrimaryPurple
+import com.cristina.ui.LoginState
+import com.cristina.theme.AppTheme
+import com.cristina.theme.DarkPurple
+import com.cristina.ui.LoginViewModel
+import com.cristina.theme.PrimaryPurple
 import kotlinx.coroutines.launch
 
 @Composable

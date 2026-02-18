@@ -1,4 +1,4 @@
-package com.cristina.loginkmp.theme
+package com.cristina.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Typography

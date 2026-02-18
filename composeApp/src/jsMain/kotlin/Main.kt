@@ -1,6 +1,6 @@
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.CanvasBasedWindow
-import com.cristina.loginkmp.App
+import com.cristina.App
 
 @OptIn(ExperimentalComposeUiApi::class)
 fun main() {

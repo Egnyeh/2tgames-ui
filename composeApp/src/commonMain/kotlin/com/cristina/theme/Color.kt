@@ -1,4 +1,4 @@
-package com.cristina.loginkmp.theme
+package com.cristina.theme
 
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.ui.graphics.Color
